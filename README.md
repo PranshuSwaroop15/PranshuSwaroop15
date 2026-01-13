@@ -35,7 +35,8 @@
 <img width="45" height="45" alt="CSS" src="https://github.com/user-attachments/assets/b34ed4da-f911-4952-b5b4-63aa78406741" />
 <img width="45" height="45" alt="TailwindCSS" src="https://github.com/user-attachments/assets/05b53ddf-fdd9-4238-a9f6-0c8d12c65f1e" />
 
-<img width="45" height="45" alt="JavaScript" src="https://github.com/user-attachments/assets/3a49f030-1925-4d9f-bae0-d2fe2b906235" />
+<img width="45" height="45" alt="JavaScript" src="https://github.com/user-attachments/assets/28088dc7-afde-41c7-b6b7-1fbfa3782e47" />
+
 <img width="45" height="45" alt="MongoDb" src="https://github.com/user-attachments/assets/17271488-900e-4144-b8e4-af71612f17f5" />
 <img width="45" height="45" alt="Express" src="https://github.com/user-attachments/assets/f8cef43b-493a-4f52-9b7b-5c8520bfdaf3" />
 
