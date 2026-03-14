@@ -2,7 +2,7 @@
 
 
 * 👂 My name is Pranshu Swaroop
-* 👩 Pronouns: he/him
+* 👨🏻 Pronouns: he/him
 * 🔭 I’m currently studying at Boston University
 
 
