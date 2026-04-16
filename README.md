@@ -9,7 +9,7 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img  src="https://github.com/user-attachments/assets/ee7bf02c-4d4d-42e0-ba1d-495841bbc962"  alt="Java" width="45" height="45" />
+<img  src="https://github.com/user-attachments/assets/ee7bf02c-4d4d-42e0-ba1d-495841bbc962" alt="Java" width="45" height="45" />
 <img width="45" height="45" alt="Spring" src="https://github.com/user-attachments/assets/f56e76cc-f5f2-4b40-9d9b-5f7cc54bb60a" />
 <img width="45" height="45" alt="Flyway" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg" />
 <img width="45" height="45" alt="AWS" src="https://github.com/user-attachments/assets/7b02e3b5-25b0-4a62-a967-c107e92af7a5" />
